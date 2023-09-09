@@ -1,0 +1,63 @@
+
+*{
+  padding:0px;
+  margin:0px;
+}
+body, html{
+  height: 100vh;
+  background-color: #ffffe0;
+  font-family: verdana;
+}
+h1.logo{
+  background-color: gray;
+  text-align: center;
+  width:100%;
+  margin:0px;
+}
+
+.botao{
+  background-color: white;
+  text-align: center;
+  padding: 10px;
+}
+.botao:hover{
+background-color:gray;
+}
+ul{
+  background-color: gray;
+  display:block;
+
+}
+
+li{
+   text-align:center;
+  border-bottom: 1px solid white;
+  padding: 8px;
+}
+li:hover{
+  opacity: 0.5;
+}
+a{
+    text-decoration:none;
+  color:white;
+}
+
+h1{
+ text-align:center;
+  margin: 20px;
+}
+p{
+  margin: 10px;
+    text-indent:25px;
+  text-align: justify;
+}
+section{
+  width: 90vw;
+  margin: auto;
+  text-height
+
+}
+
+nav{
+  display:none;
+}
